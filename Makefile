@@ -4,7 +4,7 @@ GOBUILD=go build -ldflags="-s -w"
 INSTALLPATH=/usr/local/bin
 
 # Change me!
-PROJECT_NAME=go-template
+PROJECT_NAME=go-cli-template
 
 ensure-dist-dir:
 	@- mkdir -p dist

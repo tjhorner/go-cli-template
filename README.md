@@ -1,4 +1,4 @@
-# go-template
+# go-cli-template
 
 Hello! This repository can be used as a starting point for command-line tools that are written in Go. Included is some boilerplate code for handling flags inside of a `main` function as well as a `Makefile` for installation and distribution across platforms.
 
@@ -6,7 +6,7 @@ This repository does not assume any specific package manager, although I recomme
 
 ## Makefile Tasks
 
-**Note:** Before using the Makefile you should change the `PROJECT_NAME` variable near the top. By default it is `go-template`.
+**Note:** Before using the Makefile you should change the `PROJECT_NAME` variable near the top. By default it is `go-cli-template`.
 
 ### `run`
 
